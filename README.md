@@ -1,4 +1,4 @@
-# `pure-store-updated
+# `pure-store-updated`
 
 [![Coverage Status](https://coveralls.io/repos/github/gunn/pure-store/badge.svg?branch=master)](https://coveralls.io/github/gunn/pure-store?branch=master)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/pure-store?color=%23f60)](https://bundlephobia.com/result?p=pure-store)
